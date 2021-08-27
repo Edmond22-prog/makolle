@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edmond Ghislain Makolle</h1>
 <h3 align="center">An enthusiast of Android mobile development (Kotlin, Java) and love python script, going into Open Source</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** & **Flutter**
 
 - 💬 Ask me about **Android & Python Script**
 
